@@ -11,7 +11,7 @@ $ C:\Users\DIKSHIT\Desktop\introtonode> npm install request -s
 ### STEP-4: Make a javascript file
 ### STEP-5: Run the file
 ```sh
-C:\Users\DIKSHIT\Desktop\introtonode>node hello.js
+C:\Users\DIKSHIT\Desktop\introtonode>node weather.js
 ```
  **Go to http://localhost:8081 to test your app.**
   
