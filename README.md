@@ -6,7 +6,7 @@ $ C:\Users\DIKSHIT\Desktop\introtonode>npm init
 $ C:\Users\DIKSHIT\Desktop\introtonode> npm install request -s
 ```
 ### STEP-3: Get an API and add your city location
- **Go to https://home.openweathermap.org/api_key to test your app.**
+ **Go to https://home.openweathermap.org/api_key to get an API.**
 
 ### STEP-4: Make a javascript file
 ### STEP-5: Run the file
