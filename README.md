@@ -13,6 +13,6 @@ $ C:\Users\DIKSHIT\Desktop\introtonode> npm install request -s
 ```sh
 C:\Users\DIKSHIT\Desktop\introtonode>node weather.js
 ```
- **Go to http://localhost:8081 to test your app.**
+ **Go to http://localhost:8081 to test your file.**
   
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-dikshitkapoor-red)](https://github.com/Dikshit-Kapoor)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-dikshitkkapoor-red)](https://github.com/Dikshit-Kapoor)
