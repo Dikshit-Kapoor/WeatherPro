@@ -17,3 +17,4 @@ var server=http.createServer(function(request,response){
 
 }).listen(8081); //local host 8081
 
+//you can use other weather api also
