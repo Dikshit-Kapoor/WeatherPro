@@ -1,5 +1,5 @@
 # WeatherPro
-### STEP-1: Install node JS
+### STEP-1: Install node.JS
 ### STEP-2: Install the packages
 ```sh
 $ C:\Users\DIKSHIT\Desktop\introtonode>npm init
